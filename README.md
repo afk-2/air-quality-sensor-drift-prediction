@@ -14,7 +14,7 @@ This project aims to forecast calibration drift in low-cost metal oxide CO senso
 - Designed for 6-hour ahead drift prediction to support predictive maintenance.
 
 ## Data
-The dataset contains hourly measurements of pollutants and environmental variables from CO sensors:
+The dataset contains hourly measurements of pollutants from sensors and reference instruments, with environmental variables:
 
 | Column | Description |
 |--------|-------------|
